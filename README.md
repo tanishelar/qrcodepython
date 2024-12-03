@@ -1,7 +1,5 @@
 # qrcodepython
 
-Here's a fun and emoji-filled `README.md` for your QR Code Generator project:
-
 ```markdown
 # 📸 QR Code Generator 🎉
 
